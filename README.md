@@ -1,16 +1,31 @@
-## Hi there 👋
+### 👋 Olá, eu sou Isabela!
 
-<!--
-**beazzuz/beazzuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Estudante de Ciência da Computação na **Universidade de São Paulo (USP)**.
+- 💻 Apaixonada por tecnologia, desenvolvimento web e soluções criativas.
+- 🚀 Sempre aprendendo e explorando novas ferramentas e linguagens.
+- 🎯 Focado em projetos que unem funcionalidade e design.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tecnologias e Ferramentas:
+- **Linguagens:** JavaScript, Python, Java e C
+- **Desenvolvimento Web:** HTML5, CSS3, React
+- **Banco de Dados:** MySQL
+- **Outras Ferramentas:** Git, Figma, VS Code
+
+---
+
+### 🌟 Projetos Destacados:
+- [Pomodoro Timer](https://beazzuz.github.io/Pomodoro/) — Uma aplicação web para gerenciar produtividade baseada na técnica Pomodoro.
+- **[Outros Projetos](https://github.com/beazzuz)** — Explore mais no meu GitHub!
+
+---
+
+### 📫 Contato:
+- GitHub: [github.com/beazzuz](https://github.com/beazzuz)
+- LinkedIn: [Seu LinkedIn Aqui](linkedin.com/in/isabelabfarias)
+- Email: [Seu Email Aqui](isabelanfarias@gmail.com)
+
+---
+
+🚀 **Adoro colaborar e aprender com a comunidade!** Vamos construir algo incrível juntos!
