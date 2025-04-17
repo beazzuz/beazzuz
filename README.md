@@ -23,8 +23,8 @@
 
 ### 📫 Contato:
 - GitHub: [github.com/beazzuz](https://github.com/beazzuz)
-- LinkedIn: [Seu LinkedIn Aqui](linkedin.com/in/isabelabfarias)
-- Email: [Seu Email Aqui](isabelanfarias@gmail.com)
+- LinkedIn: [isabelabfariasi](linkedin.com/in/isabelabfarias)
+- Email: [isabelanfarias@gmail.com](isabelanfarias@gmail.com)
 
 ---
 
