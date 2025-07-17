@@ -17,6 +17,7 @@
 
 ### 🌟 Projetos Destacados:
 - [Pomodoro Timer](https://beazzuz.github.io/Pomodoro/) — Uma aplicação web para gerenciar produtividade baseada na técnica Pomodoro.
+- [Pinga Dados](https://github.com/EngSoft2025/orcid-project-gavioes-da-fiel.git) — Plataforma para integração e visualização de dados acadêmicos
 - **[Outros Projetos](https://github.com/beazzuz)** — Explore mais no meu GitHub!
 
 ---
